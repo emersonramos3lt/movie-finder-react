@@ -39,5 +39,5 @@ npm start
 # **📷 Screenshots**   
 
 ![Screenshot](./screenshot/img1.PNG)
-![Screenshot](./screenshot/img2.PNG)
-![Screenshot](./screenshot/img3.PNG)
+![Screenshot](./screenshot/img2.png)
+![Screenshot](./screenshot/img3.png)
