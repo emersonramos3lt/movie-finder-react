@@ -6,9 +6,7 @@ To optimize performance, the app implements **debounce** to reduce unnecessary A
 
 ---
 
-## ⚠️ Important Notice  
-
-Due to limitations and restrictions of the **TMDB API** and its terms of use, the live version of this project may not work as expected. To view and test the project locally, follow the steps below:  
+## 👨‍💻 Test yourself
 
 1. **Download** the project files to your local machine.  
 2. Open your terminal or command prompt.  
