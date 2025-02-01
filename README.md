@@ -1,8 +1,19 @@
-# React + Vite
+# 🎬 Movie Search App  
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project is a **responsive React application** that allows users to **search for their favorite movies** and access key details, such as **release dates** and **descriptions**. It leverages the **TMDB API** to fetch movie data and uses **Appwrite** to track and display the most searched movies within the app.  
 
-Currently, two official plugins are available:
+To optimize performance, the app implements **debounce** to reduce unnecessary API requests while users type in the search bar. Additionally, frequently searched movie titles are **ranked at the top** based on user searches, making it easier to discover trending films.  
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
+
+# **🛠️ Main Features**  
+
+✅ **React for dynamic UI**  
+✅ **TMDB API for movie search & details**  
+✅ **Appwrite for tracking and ranking most searched movies**  
+✅ **Debounce implementation to minimize API requests**  
+✅ **Fully responsive design for all devices**  
+
+---
+
+# **📷 Screenshots**  
