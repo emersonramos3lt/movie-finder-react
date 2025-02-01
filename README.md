@@ -14,15 +14,15 @@ Due to limitations and restrictions of the **TMDB API** and its terms of use, th
 2. Open your terminal or command prompt.  
 3. Navigate to the project directory and run the following command to install all the necessary dependencies:  
 
-   ```bash
-   npm install
-   ```
+```bash
+npm install
+```
 
 4. Once the installation is complete, run the application with:
 
-  ```bash
-  npm start
-  ```
+```bash
+npm start
+```
 
 ---
 
